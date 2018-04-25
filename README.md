@@ -1,2 +1,2 @@
-Meu primeiro sistema no GIT.
+Aula sobre versionamento de arquivos no GIT.
 
